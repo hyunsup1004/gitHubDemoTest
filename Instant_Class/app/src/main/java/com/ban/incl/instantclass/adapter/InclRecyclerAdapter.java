@@ -29,6 +29,8 @@ public class InclRecyclerAdapter extends RecyclerView.Adapter<InclRecyclerAdapte
             this.textViewName = (TextView) itemView.findViewById(R.id.textViewName);
             this.textViewEmail = (TextView) itemView.findViewById(R.id.textViewEmail);
             this.imageViewIcon = (ImageView) itemView.findViewById(R.id.imageView);
+
+            //testSonJong
         }
     }
 
