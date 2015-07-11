@@ -33,7 +33,7 @@ public class InclRecyclerFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
+        // Inflate the layout for this ghjkfragment
         View view = inflater.inflate(R.layout.fragment_incl_list, container, false);
 
         RecyclerView mTimeRecyclerView = (RecyclerView) view.findViewById(R.id.recyclerView);
